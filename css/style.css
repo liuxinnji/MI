@@ -1,0 +1,604 @@
+/* 头部开始 */
+.head{
+	height: 40px;
+	background: #000;
+}       
+/* 底框 */
+.head-con{
+	width: 1226px;
+	height: 40px;
+	background: #333;
+	margin: 0px auto;
+}
+/* 顶端栏居中框 */
+.head-left{
+	height: 100%;
+	float: left;
+}
+/* 顶端栏左浮动框 */
+.head-left .text{
+	float: left;
+	font-size: 12px ;
+	line-height: 40px;
+	color: #b0b0b0;
+	height: 100%;
+}
+/* 左浮动框字体 */
+.head-left .line{
+	float: left;
+	font-size: 12px ;
+	line-height: 40px;
+	color: #b0b0b0;
+	height: 100%;
+	margin: 0px 7px;
+}
+/* 左浮动框竖杠 */
+.head-right{
+	float: right;
+	width: 250px;
+	height: 100%;
+}
+/* 顶端栏右浮动框 */
+.head-right .text{
+	float: left;
+	font-size: 12px ;
+	line-height: 40px;
+	color: #b0b0b0;
+	height: 100%;
+}
+/* 右浮动矿字体设计 */
+.head-right .line{
+	float: left;
+	font-size: 12px ;
+	line-height: 40px;
+	color: #b0b0b0;
+	height: 100%;
+	margin: 0px 7px;
+}
+/* 右浮动框竖杠 */
+.head-right .car{
+	float: right;
+}
+/* 购物车底背景 */
+.head-right .ca{
+	float: left;
+	font-size: 12px ;
+	line-height: 40px;
+	color: #f0f0f0;
+	height: 100%;
+	background: #424242;
+	height: 40px;
+}
+/* 购物车字体设计 */
+/* 头部结束 */
+/* 下一栏开始 */
+.containa{
+height: 100px;	
+background: #fff;
+}
+.containar{
+	height: 100px;
+	width: 1226px;
+	margin: 0 auto;
+	
+}
+/* 下一栏底框 */
+.containar .header-logo{
+	width: 240px;
+	height: 100px;
+	float: left;
+}
+.containar .header-logo-{
+	background: #ff6700;
+	margin-top: 22px;
+	width: 49px;
+	height: 49px;
+	
+
+}
+/* 下一栏图片底框 */
+.containar .header-nav{
+	float: left;
+	height: 100%;
+}
+/* 下一栏字体底框 */
+.containar .phoen{
+	float: left;
+	font-size: 16px;
+	line-height: 100px;
+	color: #333;
+	height: 100%;
+	margin: 0px 10px;
+	/* 外边距margin */
+	
+}
+/* 下一栏字体样式 */
+.containar .header-search{
+	float: right;
+}
+.ss-ri{
+	box-sizing:border-box;
+	width: 296px;
+	height: 50px;
+	float: right;
+	border: 1px solid #000;
+	margin-top: 25px;
+}
+
+.sousuo span{
+	display:inline;
+	background: rgb(238,238,238);
+	position: ;
+}
+.ss-ri input{
+	width: 242px;
+	height: 48px;
+	outline: none;
+	border: 0;
+	float: 0;
+	border-right: 1px solid #000;
+	box-sizing:border-box;
+	padding-left: 10px;
+	
+
+}
+.ss-ri-in{
+	float: right;
+	margin: auto auto;
+	background: #000000;
+}
+}
+.ss-ri-{
+	border: 0 0 0 1px;
+	outline: none;
+	width: 243px;
+	height: 48px;
+}
+.ss-ri-b{
+	position: absolute;
+
+}
+.sousuodi{
+	position: absolute;
+	left: 10px;
+	right: 0;
+	top: 12px;
+	bottom: 0;
+	margin:0 auto;
+}
+
+	
+
+.ss-ri-b i{
+	width: 50px;
+	height: 52px;
+	margin-left: 12px;
+	
+}
+/* 右边图片浮动向右 */
+/* 下一栏结束 */
+/* 闪框 */
+.xiaominshangou{
+	width: 1226px;
+	height: 438px;
+	margin: 0 auto;
+}
+.xiaominshangou .shangfang{
+	width: 1226px;
+	height: 58px;
+	line-height: 58px;
+	font-size: 22px;
+	overflow:hidden
+}
+ .jiantou{
+	width: 75px;
+	height: 25px;
+	border: 1px solid #e0e0e0;
+	float: right;
+	margin-top: 24px;
+	line-height: 25px;
+	text-align: center;
+
+}
+.jiantouzuo{
+	float: left;
+	width: 37px;
+	height: 24px;
+	margin: 0;
+	text-align: center;
+	border-right: 1px solid #e0e0e0 ;
+}
+.jiantouzuo i{
+text-align: center;
+}
+
+.jiantouyou{
+	float: left;
+	width: 37px;
+	height: 24px;
+	text-align: center;
+}
+.jiantouyou i{
+	line-height: 25px;
+
+}
+.shangoutu{
+	width: 100%;
+	height: 340px;
+}
+.shangoutuzuo{
+	width: 234px;
+	height: 340px;
+	background: #f1e9e9;
+	float: left;
+}
+.shandian{
+	margin: 0 auto;
+	margin-left: 100px;
+	margin-top: 25px;
+}
+.julijieshu{
+	margin-top:25px ;
+	text-align: center;
+}
+.daojishidi{
+	float: left;
+	width: 168px;
+	height: 46px;
+	margin-left: 33px;
+	padding-top:28px
+}
+.daojishi{
+	float: left;
+	width: 46px;
+	height: 46px;
+	background: #605751;
+	color: #fff;
+	font-size: 24px;
+	line-height: 46px;
+	text-align: center;
+	
+	
+}
+.maohao{
+	float: left;
+	width: 15px;
+	height: 46px;
+	text-align: center;
+	line-height: 46px;
+	font-size: 24px;
+
+}
+.shangoutuzuo .shangushijian{
+	width: 234px;
+	margin-top: 54px;
+	text-align: center;
+	font-size: 22px;
+	color: #ef3a3b;
+}
+.shangoutuyou{
+	overflow:hidden
+}
+.shangoutuyou .youyi{
+	margin-left: 14px;
+	width: 234px;
+	height: 340px;
+	background: rgba(0,0,0,0.02);
+	float: left;
+	
+}
+.youyi input{
+	width: 160px;
+	height: 160px;
+	margin-left: 37px;
+	margin-top: 39px ;
+
+}
+.youyi .wenzi {
+	text-align: center;
+	margin-top: 22px;
+	color: #212121;
+	font-size: 14px;
+}
+.youyi .wenzia{
+	text-align: center;
+	color: #b0b0b0;
+	font-size: 12px;
+}
+.wenzib{
+	margin-top: 14px;
+	text-align: center;
+	color: #ff6709;
+}
+.wenzib span{
+	text-decoration: line-through;
+	color: #b0b0b0;
+}
+.youer{
+	margin-left: 14px;
+	width: 234px;
+	height: 340px;
+	float: left;
+	background: #fff;
+}
+.shangoutuyou .yousan{
+	margin-left: 14px;
+	width: 234px;
+	height: 340px;
+	background: yellow;
+	float: left;
+}
+.shangoutuyou .yousi{
+	margin-left: 14px;
+	width: 234px;
+	height: 340px;
+	background: yellow;
+	float: left;
+}
+/* 闪购结束 */
+/* 为你推荐 */
+.weinituijian{
+	width: 1226px;
+	height: 438px;
+	margin: 0 auto;
+	overflow: hidden;
+
+	}
+	.tjbj{
+		background:#f5f5f5;
+
+	}
+.weinituijianyi{
+	width: 100%;
+	height: 314px;
+	}
+.tjshangfang{: 1226px;
+	height: 58px;
+	line-height: 58px;
+	font-size: 22px;
+	overflow:hidden;
+	}
+	.tjshangfang .shangfang{
+		margin-top: 25px;
+		float: left;
+		margin-top: 15px;
+		border: 1px solid #e0e0e0;
+	}
+	.tjshangfang .shangfang .jiantouzuo{
+		float: left;
+		text-align: center;
+		line-height: 24px;
+	}
+	.tjshangfang .shangfang .jiantouzuo i{
+		float: left;
+		height: 24px;
+		margin-left: 8px;
+	}
+	.tjshangfang .shangfang .jiantouyou i{
+		float: right;
+		margin-right: 8px;
+
+	}
+	.wjtuyi{
+		/* margin-left: 14px; */
+		/* 向右平移14px */
+		/* margin-top:58px ; */
+		/* 向下移58px */
+		width: 234px;
+		height: 340px;
+		background: rgba(0,0,0,0.02);
+		float: left;
+	}
+	.tjshangfang .shangfang{
+		float: right;
+	}
+	.youer {
+		text-align: center;
+		margin: 0 auto;
+	}
+	.tuij15{
+		/* overflow: overlay; */
+	}
+	.tuij15 ul{
+		width: 3687px;
+		height: 340px;
+	}
+	.tuij15 li{
+		float: left;
+		margin-left: 14px;
+	}
+.tuij15	.xiaochujianu{
+		margin: 0;
+	}
+	.tuij15 .youer input{
+		margin-top: 40px;
+	}
+	.youer .wenzi {
+		margin-top: 15px;
+		margin-left: 20px;
+		width: 194px;
+		height: 18px;
+		font-size: 14px;
+		color:#333 ;
+		overflow:hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		text-align: center;
+		
+	}
+.youer .wenzic{
+	margin-top:10px ;
+	color: #757575;
+		
+	}
+	/* 推荐结束 */
+.rpcp{
+	width: 1226px;
+	height: 473px;
+	background: red;
+	margin: 0 auto;
+}	
+.ding{
+	width: 100%;
+	height: 58px;
+	color: #333;
+	font-size: 22px;
+	line-height: 58px;
+	
+}
+.rpcptu{
+	width: 100$;
+	height: 415px;
+	background: #000000;
+}
+/* 日评结束 */
+/* 轮播 */
+.luobodi{
+	height: 460px;
+	width: 1226px;
+/* 	position: absolute;
+	left: 0;
+	right: 0;
+	margin:0 auto;
+ */
+}
+.lunbo{
+	height: 460px;
+	width: 1226px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin:0 auto;
+}
+.zuobian{
+	width: 234px;
+	height: 460px;
+	background: yellow;
+	background: rgba(0,0,0,0.6);
+	color: #ffffff;
+	position: absolute;
+	z-index: 2;
+}
+
+.lunbo .zuobian ul{
+	position: absolute;
+	top:20px;
+	left: 30px;
+}
+.lunbo .zuobian li{
+	height: 42px;
+	width: 234px;
+}
+.lunbo  i{
+	position: absolute;
+	right: 40px;
+	font-size: 16px;
+	line-height: 16px;
+}
+.luobo .jiantouyou{
+	position: absolute;
+	right: 20px;
+}
+.ditu{
+	position: absolute;
+	width: 1226px;
+	height: 460px;
+}
+.lunbo .ditu li{
+	position: absolute;
+/* 	left: -30px;
+	top: -20px; */
+}
+.lunbo .ditu input{
+	width: 1226px;
+	height: 460px;
+}
+.jingling .jinglingzuo{
+	width: 41px;
+	height: 69px;
+	background: url(../img/jingling.png);
+	position: absolute;
+	left: 234px;
+	top: 195.5px;
+	
+}
+.jingling .jinglingyou{
+	width: 41px;
+	height: 69px;
+	background: url(../img/jingling.png);
+	position: absolute;
+	right: 0;
+	top: 195.5px;
+	background-repeat:no-repeat ;
+	background-position:-41px,0 ;
+}
+.luobodian{
+	height: 18px;
+	float: right;
+	margin-top:422px ;
+}
+
+.luobodian .lunboyuan{
+	width: 10px;
+	height: 10px;
+	background: rgba(0,0,0,0.4);
+	float: left;
+	margin: 5px 5px;
+	border-radius:50% ;
+	border: 2px solid #fff;
+}
+#ca1{
+	background: rgba(255,255,255,0.3);
+}
+
+.jingling{
+	z-index: 3;
+
+}
+.luobodian{
+	z-index: 4;
+
+}
+.ditu{
+	z-index: 1;
+}
+.yongyong{
+	width: 1226px;
+	height: 170px;
+	margin: 0 auto;
+}
+.yongyong .tu{
+	float: left;
+	width: 234px;
+	height: 170px;
+	background: yellow;
+	margin-right: 2px;
+}
+.yongyong .tupian{
+	width: 316px;
+	height: 170px;
+	background: #333333;
+	float: left;
+	margin-left: 14px;
+}
+.yongyong .tupian img{
+	width: 316px;
+	height: 170px;
+}
+.yongyong .tu .tu6{
+	width: 70px;
+	height: 64px;
+	background: #333333;
+	float: left;
+	margin-left: 1.5px;
+	margin-top: 18px;
+}
+.yongyong .tu .shu{
+	width: 1px;
+	height: 70px;
+	background: red;
+	float: left;
+	margin-top:8px ;
+	margin: 1.5px;
+	
+}
